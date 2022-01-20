@@ -5,16 +5,18 @@
 
 最终的最终，我还是选择了markdown和github pages的**原生配置**。   
 但这并无大碍。毕竟曾有许多人和我一般的尝试，并取得了***最终的结论***
->沃·兹基硕德 —— “如果你尝试自己肝html，那么你将怀疑自己的发量”   
+> 沃·兹基硕德 —— “如果你尝试自己肝html，那么你将怀疑自己的发量”   
 
 ---
+
 ## 我在哪
 * [Github](https://github.com/Azard15)
 * [Luogu](https://www.luogu.com.cn/user/409701)
 * [LeetCode](https://leetcode-cn.com/u/azard15/)   
-  
+
 ---
-## 博客??
+
+## 博客??   
 **不可能的**没呢   
 
 ---
